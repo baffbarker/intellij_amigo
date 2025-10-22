@@ -26,4 +26,7 @@ public class StudentService {
 
     }
 
+    public void addNewStudent(Student student) {
+        System.out.print(student);
+    }
 }
